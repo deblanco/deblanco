@@ -9,7 +9,7 @@ I'm Daniel and I'm a Software Engineer with more than 10 years experience. I've 
 
 ## TECH STACK
 
-NodeJS / Solidity / React / NextJS / Golang / DevOps / AWS CDK / TypeScript / CSS / Mongo / PostgreSQL / Redis / ...
+NodeJS / Solidity / React / NextJS / Rust / DevOps / AWS CDK / TypeScript / CSS / Mongo / PostgreSQL / Redis / ...
 
 "As a Full-Stack Developer with experience in NodeJS, Solidity, React, NextJS, Golang, and AWS CDK, I am confident in my ability to deliver high-quality applications that meet the needs of your team. My expertise in TypeScript, CSS, Mongo, PostgreSQL, and Redis allows me to work with a wide range of technologies and build scalable and reliable solutions." - *ChatGPT*
 
