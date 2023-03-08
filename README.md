@@ -2,7 +2,7 @@
 
 I'm Daniel and I'm a Software Engineer with more than 10 years experience. I've worked in several industries but since 4 years ago I'm working in crypto.
 
-💼 Lead Software Engineer @ Stability Protocol<br />
+💼 Head of Engineering @ Stability Protocol<br />
 📍 Remote - Madrid, Spain<br />
 🫶 Running and sharing beers<br />
 🔬 Interested in Tokenomics and Blockchain scalability
